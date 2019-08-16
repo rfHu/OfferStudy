@@ -63,8 +63,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\OfferStudy\ForOffer\1.SizeOf\SizeOfExample.cs" />
-    <Compile Include="Assets\OfferStudy\ForOffer\10.查找和排序\Quicksort.cs" />
     <Compile Include="Assets\OfferStudy\ForOffer\10.查找和排序\RotateArray.cs" />
+    <Compile Include="Assets\OfferStudy\ForOffer\10.查找和排序\Sorts\BubbleSort.cs" />
+    <Compile Include="Assets\OfferStudy\ForOffer\10.查找和排序\Sorts\Quicksort.cs" />
+    <Compile Include="Assets\OfferStudy\ForOffer\10.查找和排序\Sorts\SelctionSort.cs" />
+    <Compile Include="Assets\OfferStudy\ForOffer\11.递归与循环\Fibonacci.cs" />
+    <Compile Include="Assets\OfferStudy\ForOffer\12.O(1)删除节点\DeleteNodeO1.cs" />
+    <Compile Include="Assets\OfferStudy\ForOffer\12.位运算\NumberOf1.cs" />
     <Compile Include="Assets\OfferStudy\ForOffer\2.StaticConstructors\StaticConstructorsExample.cs" />
     <Compile Include="Assets\OfferStudy\ForOffer\3.Reflection&amp;ProgramArea\ReflectionAndProgramAreaExample.cs" />
     <Compile Include="Assets\OfferStudy\ForOffer\4.AboutSingleton\SingletonExample.cs" />
@@ -81,6 +86,8 @@
     <Compile Include="Assets\OfferStudy\LeetCode\4.两有序数组中位数\FindMedianSortedArraysSolution.cs" />
     <Compile Include="Assets\OfferStudy\LeetCode\5.最长回文子串\LongestPalindromeSolution.cs" />
     <Compile Include="Assets\OfferStudy\LeetCode\6.Z字形变换\ZConvert.cs" />
+    <Compile Include="Assets\OfferStudy\Study\Ref\DllDemo.cs" />
+    <Compile Include="Assets\Scripts\ExtensionFuncs.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>E:/WorkPlace/OfferStudy/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
