@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace ForOffer
 {
-    class ListNode
+    public class ListNode
     {
         public int M_nValue;
         public ListNode M_pNext;
