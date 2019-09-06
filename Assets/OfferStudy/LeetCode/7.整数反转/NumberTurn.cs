@@ -1,4 +1,4 @@
-﻿
+﻿//
 namespace LeetCode
 {
     public class NumberTurn
